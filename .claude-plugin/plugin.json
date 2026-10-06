@@ -1,0 +1,6 @@
+{
+  "name": "firecrawl-credits",
+  "version": "0.1.0",
+  "description": "Shows what each Firecrawl CLI command cost, and the running total for this session.",
+  "author": { "name": "Richard" }
+}

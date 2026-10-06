@@ -1,0 +1,4 @@
+{
+  "description": "firecrawl-credits: watches Bash calls to the firecrawl CLI and shows what each one spent above the prompt.",
+  "modules": ["./register.tsx"]
+}

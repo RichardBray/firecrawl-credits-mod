@@ -1,0 +1,5 @@
+.firecrawl/
+.env*
+.envrc
+mise.toml
+.claude-plugin/types/
